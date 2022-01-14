@@ -43,7 +43,8 @@ header{
   height: 525px;
   margin: 0 auto;
   background-color: #F5F5F5;
-  border-radius: 21px;
+  border-top-left-radius: 21px;
+  border-top-right-radius: 21px;
 }
 .top-container{
   display: flex;
@@ -88,7 +89,23 @@ header{
 .camera-image img{
   width: 501px;
 }
+hr{
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid 	#708090;
+}
 
 /* end top sec */
+/* start sec-2 */
+
+
+.sec-2{
+  width: 80%;
+  margin: 30px auto;
+}
+.sec-2-cont{
+  display: flex;
+  justify-content: space-between;
+}
 
 

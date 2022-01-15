@@ -31,6 +31,7 @@ header{
 .menu-item i{
   font-size: 1.4em;
   padding-top: 3px;
+  color: #E02C6D;
 }
 .menu-item i:hover{
   color: #483D8B;
@@ -74,7 +75,7 @@ header{
   margin-top: 49px;
   padding: 11px 25px;
   font-size: 1em;
-  background: #800080;
+  background: #E02C6D;
   color: white;
   border-radius: 50px;
 }
@@ -105,7 +106,12 @@ hr{
 }
 .sec-2-cont{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
+
+/* end section 2 */
+
+
+
 
 

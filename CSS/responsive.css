@@ -5,6 +5,7 @@
   }
   .top-sec{
     height: auto;
+    margin-bottom: 20px;
   }
   .top-container{
     flex-direction: column;
@@ -16,7 +17,8 @@
   }
   .camera-image img{
     order: 1;
-    width: 70%;
+    width: 75%;
+    margin-left: 110px;
   }
   .sec-3{
     width: 100%;
